@@ -1,5 +1,5 @@
 
-<img src="Image/jv.jpeg" alt="App Screenshot" width="300" height="300">
+<img src="Image/jv.jpeg" alt="App Screenshot" width="200" height="200">
 
 # Project3_Product-Management-Journey-8
 Product Mangement CRUD App
