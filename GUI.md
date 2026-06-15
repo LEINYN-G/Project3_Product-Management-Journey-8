@@ -1,4 +1,4 @@
-#Desired GUI
+# Desired GUI
 
 <img src="Image/desired.jpeg" alt="App Screenshot" width="300" height="200">
 
@@ -25,6 +25,18 @@ You can do this! At this stage of the course, you should be able to create the G
 Just identify the GUI component, create the instance, customize it as per the requirement, and position it on the Frame. If you have completed the Swing GUI subject, it should be fairly easy...
 
 Hence, take it as a challenge for yourself and try to clone the GUI according to the requirements of our project.
-Now the code part! refer GUI.Java file
+Now the code part!
+
+Product Management CRUD App GUI
+The previous code should generate the following GU
 
 <img src="Image/code1.jpeg" alt="App Screenshot" width="200" height="200">
+
+The GUI of our Product Management software is ready! Looks beautiful, right?
+
+Moving on to the next section, we will handle the events when any of the above buttons are clicked by the GUI and accordingly help to interact with the database by performing the required operation.
+
+Keep going...
+
+ refer GUI.Java file for code!
+
