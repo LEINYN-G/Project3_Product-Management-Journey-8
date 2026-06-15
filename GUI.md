@@ -1,4 +1,5 @@
 #Desired GUI
+
 <img src="Image/desired.jpeg" alt="App Screenshot" width="300" height="200">
 
 Before we actually start writing the code to develop the GUI, it will be beneficial to understand how our GUI would look.
