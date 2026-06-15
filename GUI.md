@@ -18,8 +18,6 @@ JButton
 We have mostly worked with all of them in the Swing GUI subject.
 Hence, creating a GUI similar to the above should be an easy task for you!
 
-<img src="Image/gui.jpeg" alt="App Screenshot" width="200" height="200">
-
 You can do this! At this stage of the course, you should be able to create the GUI shown in the previous screens. It's quite easy!
 
 Just identify the GUI component, create the instance, customize it as per the requirement, and position it on the Frame. If you have completed the Swing GUI subject, it should be fairly easy...
@@ -28,9 +26,9 @@ Hence, take it as a challenge for yourself and try to clone the GUI according to
 Now the code part!
 
 Product Management CRUD App GUI
-The previous code should generate the following GU
+The previous code should generate the following GUI
 
-<img src="Image/code1.jpeg" alt="App Screenshot" width="200" height="200">
+<img src="Image/gui.jpeg" alt="App Screenshot" width="200" height="200">
 
 The GUI of our Product Management software is ready! Looks beautiful, right?
 
@@ -39,4 +37,6 @@ Moving on to the next section, we will handle the events when any of the above b
 Keep going...
 
  refer GUI.Java file for code!
+
+ <img src="Image/code1.jpeg" alt="App Screenshot" width="200" height="200">
 
