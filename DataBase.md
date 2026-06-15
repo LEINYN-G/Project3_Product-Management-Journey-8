@@ -1,5 +1,6 @@
-image
-#*DataBase & Table*
+imag<img src="Image/db.jpeg" alt="App Screenshot" width="300" height="200">
+
+# DataBase & Table
 Before we start writing any code or creating the GUI/other functionalities, let's head on to our MySQL first and create the required ProductData database and the table to store the product details.
 
 Therefore, we will create a ProductData database with a "products" table in it. The products table will have the following fields,
@@ -29,7 +30,7 @@ SHOW DATABASES;
 
 Since our database ProductData is ready, let's create the products table. To do that, hit the following command,
 
-image
+<img src="Image/cmd.jpeg" alt="App Screenshot" width="500" height="200">
 
 Output
 
@@ -42,6 +43,12 @@ Hit the below command to check the structure of the table,
 DESCRIBE products;
 
 It should produce the below output,
+
+<img src="Image/op.jpeg" alt="App Screenshot" width="500" height="300">
+
+
 Woohoo! Our Database and the Table which we will be using to store and manipulate data are ready!
+
+<img src="Image/cel.jpeg" alt="App Screenshot" width="300" height="300">
 
 Now, we can move ahead with our project and start creating the GUI and the other functionalities that will help us to interact with this Product Data database.
