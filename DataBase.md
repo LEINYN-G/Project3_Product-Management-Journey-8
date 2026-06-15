@@ -51,6 +51,10 @@ Woohoo! Our Database and the Table which we will be using to store and manipulat
 
 <img src="Image/cel.jpeg" alt="App Screenshot" width="300" height="300">
 
+Woohoo! Our Database and the Table which we will be using to store and manipulate data are ready!
+
 Now, we can move ahead with our project and start creating the GUI and the other functionalities that will help us to interact with this Product Data database.
 
 <img src="Image/code.jpeg" alt="App Screenshot" width="300" height="200">
+
+Refer to GUI.md file...
