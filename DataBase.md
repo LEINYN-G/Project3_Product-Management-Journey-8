@@ -121,9 +121,19 @@ refer to .Java file... for the code!
 
 Below is how the connect method would look,
 
-<img src="Image/codesample3.jpeg" alt="App Screenshot" width="400" height="300">
+<img src="Image/codesample3.jpeg" alt="App Screenshot" width="300" height="500">
 
 refer Addproduct.Java file for complete code guidance!!
+
+Well, since our add data functionality is ready, let's try and insert some values into our database. Once you enter some data into the fields and hit the 'Add' button, above is how it would look.
+
+Yay! It's working...
+
+Now, let's check whether it was perfectly inserted into the database using the MySQL command line. You can hit the 'select *' statement to fetch the values and see if the data was inserted.
+
+It should produce output something like below,
+
+<img src="Image/codesample4.jpeg" alt="App Screenshot" width="600" height="200">
 
 
 
