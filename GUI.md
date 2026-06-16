@@ -114,4 +114,9 @@ Now, let's check whether it was perfectly inserted into the database using the M
 
 It should produce output something like below,
 
+<img src="Image/codesample4.jpeg" alt="App Screenshot" width="600" height="200">
+
+Next part? Refer to AddingProduct.md -> ->
+
+
 
