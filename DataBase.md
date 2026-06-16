@@ -58,10 +58,3 @@ Now, we can move ahead with our project and start creating the GUI and the other
 <img src="Image/code.jpeg" alt="App Screenshot" width="300" height="200">
 
 Next part? Refer to GUI.md file...
-
-
-<img src="Image/codesample4.jpeg" alt="App Screenshot" width="600" height="200">
-
-Next part? Refer to AddingProduct.md -> ->
-
-
