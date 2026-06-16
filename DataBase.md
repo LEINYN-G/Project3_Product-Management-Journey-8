@@ -98,7 +98,7 @@ Here, comes the getSource() method
 The getSource() method is specified by the EventObject class that ActionEvent is a child of  and gives you a refernce to the object that the event came from. In simple words, it is used in the actionPerformed method to determine which button was clicked.
 Therefore, the following is how our actionPerformed() method would look like after using the getSource() method.
 
-<img src="Image/codesample2.jpeg" alt="App Screenshot" width="400" height="300">
+<img src="Image/codesample2.jpeg" alt="App Screenshot" width="300" height="500">
 
 Simple? We use the if statement to check whether the object returned by the getSource() method matches a particular button and accordingly execute the code block.
 
