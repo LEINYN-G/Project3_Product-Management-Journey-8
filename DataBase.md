@@ -67,7 +67,7 @@ In this section, we will create the logic for the add functionality of our appli
 
 Make sure to import the given below:
 
-<img src="Image/imp.jpeg" alt="App Screenshot" width="600" height="200">
+<img src="Image/imp.jpeg" alt="App Screenshot" width="460" height="180">
 
 ## Handling the Event
 We will create a new class called HandleEvent which will implement the ActionListener interface and will be 
