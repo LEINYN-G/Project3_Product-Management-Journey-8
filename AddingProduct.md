@@ -1,6 +1,8 @@
+## Updating Product
+
 We are done with the 'add products' functionality. Now let's move ahead and implement the 'update products' functionality.
 
-image
+<img src="Image/sam.jpeg" alt="App Screenshot" width="200" height="200">
 
 There are situations where we might need to update the data such as if the price of the product has changed, or there is a change in the product quantity, and more.
 
@@ -12,7 +14,7 @@ Updating Values
 ## Updating Values
 We can update the data in MySQL using the UPDATE statement. It helps to modify any field value of any MySQL table. Following is the syntax of the UPDATE statement,
 
-Image
+<img src="Image/cmdd.jpeg" alt="App Screenshot" width="500" height="200">
 
 Here, we can specify any condition using the WHERE clause. The WHERE clause will help us to update the values by targeting specific IDs in our products table.
 
@@ -31,6 +33,12 @@ Done
 
 Simple, right?
 
+## Updation code
+Refer to Complete.Java file
+
+<img src="Image/code.jpeg" alt="App Screenshot" width="300" height="200">
+
+
 Just like the 'add' functionality, once we update the values into the database, we clear the data from the text fields using the setText() method. Also, on the successful data update, we show a message dialog box with a success message.
 
 Now, let's move ahead and try to execute it.
@@ -40,3 +48,11 @@ Once you enter some data into the fields and hit 'Update', above is how it would
 We have updated the price of the product with ID as '101' from 9000 to 9500. We can verify that using the 'select *' statement in our MySQL command-line.
 
 It should produce output something like below,
+
+<img src="Image/res.jpeg" alt="App Screenshot" width="200" height="200">
+
+&
+
+<img src="Image/res1.jpeg" alt="App Screenshot" width="400" height="200">
+
+
