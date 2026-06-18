@@ -2,7 +2,7 @@
 <img src="Image/jv.jpeg" alt="App Screenshot" width="200" height="200">
 
 # Project3_Product-Management-Journey-8
-Product Mangement CRUD App
+### Product Mangement CRUD App
 
 The database is an important part of any application. Without it, an application is just like a human without a brain.
 One of the most basic scenarios in real life would be a simple CRUD app that would interact with the database and help us to store and manipulate data..
@@ -27,7 +27,7 @@ It's time to level up!
 
 <img src="Image/lets.jpeg" alt="App Screenshot" width="200" height="300">
 
-What are we going to do in this section? What is the project about?
+#### What are we going to do in this section? What is the project about?
 
 1) Insert and store product details such as Product ID, Product Name, Product Price, and Product Quantity in the database
 2) Perform various other operations such as fetching data, deleting data, updating existing data, and more
@@ -39,20 +39,20 @@ The project flow would be quite similar to our previous projects, but the major 
 
 <img src="Image/flow.jpeg" alt="App Screenshot" width="300" height="300">
 
-Let's have a look at how the flow of our project would look like,
+#### Let's have a look at how the flow of our project would look like,
 1) The very first step is to create a simple GUI that will help us interact with the appliction and perform operations over the database.
 2) The GUI would have the following options to Add, Update, Search, and Delete the data.
 3) Whenever the user hits any of these buttons, the data entered by the user will be stored/fetched from the database. Accordingly, we will also generate a dialog box that will contain the details fo the operation performed.
 
 <img src="Image/cont.jpeg" alt="App Screenshot" width="200">
 
-*The Approach*
+#### *The Approach*
 Since the major focus would be on the GUI and the database, 
 we will create a simple GUI and a database with the required table in MySQL so that our app can interact with it.
 Once our GUI and database are ready, we'll handle the events that will be responsible to perform the assigned CRUD operations.
 Based on the event invoked, the operation will be performed.
 
-*JOptionPane in Swing*
+#### *JOptionPane in Swing*
 In Java Swing, the JOptionPane class is used to provide std dialog boxes such as message dialog box, confirm dialog box, and input dialog box.
 These can be used to display some information, or even to accept some input from the user.
 
@@ -64,15 +64,15 @@ These windowns are an effective way to communicate with a user without the overh
 adding components to it, and writing event-handling methods to take input.
 All of these things are handled automatically by the std modal dialog boxes offered by JOprionPane class.
 
-*Types of Dialog boxes*
+#### *Types of Dialog boxes*
 1) MessageDialog
 2) ConfirmDialog
 3) InputDialog
 4) OptionDialog
 
-*Important Methods*
+#### *Important Methods*
 
-Following are some of the important methods of the JOptionPane class that you should know,
+##### Following are some of the important methods of the JOptionPane class that you should know,
 
 1) _static void showMessageDialog (Component parentComponent, String message, String title, int messageType):_
 This method is used to create a simple message dialog to show some information.
@@ -95,7 +95,7 @@ Since these are static methods, they can be directly called using the class name
 
 JOptionPane.methodName(parameters...)
 
-_Understanding parameters_
+#### _Understanding parameters_
 
 As we have seen, there are several parameters that those methods take. Following is a quick overview of the same,
 
