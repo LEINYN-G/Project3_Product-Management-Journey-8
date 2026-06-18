@@ -121,6 +121,10 @@ in this project such as adding a conditional check before inserting the values i
 
 Try to implement these and any other features that you can think of to make this project better.
 
+#### *Don't Forget to Explore the INTERVIEW SECTION i.e Journey-9, see u there!!*
+
+<img src="Image/cute.jpeg" alt="App Screenshot" width="200" height="200">
+
 All the best! You can do this!
 
 
