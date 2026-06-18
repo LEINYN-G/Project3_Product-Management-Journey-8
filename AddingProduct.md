@@ -109,4 +109,18 @@ That's it for this section! We are done with the CRUD functionality! Woohoo, you
 
 <img src="Image/res4.jpeg" alt="App Screenshot" width="200" height="200">
 
+*This is how we can create a real-life GUI app that can interact with the database using our Java programming skills. Try creating more such projects and strengthen your skills.*
+
+Before we sign off from this section, we have some challenges for you!
+
+#### *Challenge 1 - Try to implement the first two projects using the GUI and connect them with the database*
+
+#### *Challenge 2 - There are many features missing*
+
+in this project such as adding a conditional check before inserting the values into the database to make sure the values entered are not empty or if the user tries to update the values for a product ID that does not exist then show an appropriate message, and more
+
+Try to implement these and any other features that you can think of to make this project better.
+
+All the best! You can do this!
+
 
